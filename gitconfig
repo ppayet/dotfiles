@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pg.payet@gmail.com
+	name = Pierre Payet Techer
